@@ -13,14 +13,4 @@
 git clone https://github.com/dannRocha/etapa-tecnica-gft-start-2.git
 ```
 
-## :cd: Run
-### boot
 
-Com CMD ou terminal aberto no diretório do repositório:
-```
-./gradlew run
-```
-### test
-```
-./gradlew test
-```
